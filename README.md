@@ -28,7 +28,7 @@ Third-party services used by the app may collect and process data according to t
 
 For privacy questions, please contact:
 
-[Add support email or contact URL]
+gsirelkhatim@outlook.de
 
 ## Changes
 
